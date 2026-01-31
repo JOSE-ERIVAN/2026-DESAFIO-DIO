@@ -7,3 +7,4 @@ console.log("baixa da egua");
 console.log("taba lascada");
 console.log("chupa cabra");
 console.log("bacurau");
+console.log("sol");
